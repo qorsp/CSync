@@ -8,4 +8,4 @@ https://files.fm/u/5urwx7g4zt
 
  - Descarga:
 
-   Para poder usar Csync debe descargar el archivo CSync.ahk, y luego dar doble click al archio descargado.
+   Para poder usar Csync debe descargar el archivo CSync.exe, y luego dar doble click al archio descargado.
